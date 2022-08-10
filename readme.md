@@ -1,7 +1,7 @@
 ## Spring PetClinic Sample application [![setup automated](https://img.shields.io/badge/Gitpod-ready_to_code-orange?logo=gitpod)](https://gitpod.io/#https://github.com/gitpod-io/spring-petclinic) 
 
 [Petclinic](https://github.com/spring-projects/spring-petclinic) is a [Spring Boot](https://spring.io/guides/gs/spring-boot/) application built using [Maven](https://spring.io/guides/gs/maven/).
-
+====
 ## Table of Contents
 
  - [Run petclinic on Gitpod](#run-petclinic-on-gitpod)
